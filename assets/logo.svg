@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="40" viewBox="0 0 190 40">
+  <rect x="0" y="2" width="36" height="36" rx="9" fill="#0F172A"/>
+  <text x="18" y="26" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">GB</text>
+  <text x="46" y="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#0F172A">GeoBat</text>
+  <text x="46" y="32" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="1.4" fill="#64748B">CAMEROUN · LABO</text>
+</svg>

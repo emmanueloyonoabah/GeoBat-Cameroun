@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets (comptes réels) — ne jamais publier
+.streamlit/secrets.toml
+
+# Base d'essais locale (sur Streamlit Cloud elle est de toute façon éphémère)
+data/essais.csv
+data/*.tmp
